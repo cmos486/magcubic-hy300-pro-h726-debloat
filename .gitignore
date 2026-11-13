@@ -1,0 +1,17 @@
+# NADA de binarios de firmware, backups ni APKs en este repo
+*.img
+*.raw
+*.fex
+*.apk
+*.aab
+*.bin
+*.zip
+backup-*/
+backup-*
+apks/
+firmware*/
+private.img
+**/private.img
+update.img
+magisk_patched*
+*.PRE.img

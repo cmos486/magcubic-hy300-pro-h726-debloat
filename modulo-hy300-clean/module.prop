@@ -1,0 +1,6 @@
+id=hy300-clean
+name=HY300 Clean
+version=v1.0
+versionCode=1
+author=cmos486
+description=Oculta de forma systemless el backdoor hotacksu y las apps HY_StoreOs_QZ, HY_OtaUpdate_QZ y Tubesky del Magcubic HY300 Pro (H726 p2). No escribe en super; desactivar o borrar el modulo lo revierte.
